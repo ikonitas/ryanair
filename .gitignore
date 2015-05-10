@@ -1,0 +1,10 @@
+ghostdriver.log
+local_settings.py
+
+ryanair/phantomjs/bin/*
+
+# Python
+*.py[co]
+
+# Vim
+*.sw[po]

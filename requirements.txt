@@ -1,0 +1,4 @@
+Scrapy==0.24.6
+psycopg2==2.6
+selenium==2.45.0
+xvfbwrapper==0.2.4
